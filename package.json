@@ -1,0 +1,24 @@
+{
+  "name": "tw",
+  "version": "1.0.0",
+  "description": "Web Techniques Course project Faculty of Mathematics and Computer Science at the University of Bucharest.",
+  "main": "Proiect_TW.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "WTProject"
+  },
+  "author": "Maciuca Teodor",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "ejs": "^3.1.9",
+    "engine": "^1.0.0",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "view": "^1.1.1",
+    "views": "^0.0.0"
+  }
+}
